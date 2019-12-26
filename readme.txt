@@ -4,3 +4,4 @@ git has a mutable index called stage
 insert hello
 create a new branch
 creating a new branch is quick & simple
+create a new branch 2
